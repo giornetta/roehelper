@@ -1,3 +1,5 @@
+**Note:** Now that the game is out on Steam, this tool isn't useful anymore. Enjoy the game!
+
 # ROE Helper
 
 Welcome to the ROE Helper!
